@@ -14,7 +14,8 @@ UI를 제외한 대부분의 기능들은 C++을 기반으로 제작함
 
 Youtube Link : https://youtu.be/jgJCWxtmtJI
 
-1.0. 게임 소개
+
+1.0 게임 소개
 
 1.1 장르 : 액션
 
