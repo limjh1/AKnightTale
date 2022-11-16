@@ -36,4 +36,6 @@ Asset : https://www.mixamo.com (캐릭터, 애니메이션),
  
  https://youtu.be/zedKUc763zA (BGM),
  
- https://youtu.be/KKi2qiuZZWQ(BGM)
+ https://youtu.be/KKi2qiuZZWQ(BGM),
+ 
+ 언리얼 마켓플레이스 무료 에셋 활용
