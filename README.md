@@ -29,6 +29,7 @@ Youtube Link : https://youtu.be/jgJCWxtmtJI
 
 
 그래픽 리소스는 너무 비대하여 제외함
+
 Asset : https://www.mixamo.com (캐릭터, 애니메이션),
 
  https://soundeffect-lab.info/sound/ba... (SFx),
