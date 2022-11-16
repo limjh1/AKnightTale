@@ -18,6 +18,8 @@ Youtube Link : https://youtu.be/jgJCWxtmtJI
 1.1 장르 : 액션
 
 1.2 플랫폼 : PC Window 기반
+![image](https://user-images.githubusercontent.com/86766590/202141233-011c757b-6873-4c7b-8a7c-a222c4b35ec2.png)
 
 ![image](https://user-images.githubusercontent.com/86766590/202141112-482623c8-28bf-42ca-9c0c-bf1b2e3e2675.png)
 
+![image](https://user-images.githubusercontent.com/86766590/202141420-87e6ed92-84fd-4b28-8399-edd9537956d1.png)
