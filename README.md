@@ -19,4 +19,5 @@ Youtube Link : https://youtu.be/jgJCWxtmtJI
 
 1.2 플랫폼 : PC Window 기반
 
-![그림1](https://user-images.githubusercontent.com/86766590/202140891-41877bbc-2ca9-4427-ac2c-4ac72e949e89.png)
+![image](https://user-images.githubusercontent.com/86766590/202141112-482623c8-28bf-42ca-9c0c-bf1b2e3e2675.png)
+
